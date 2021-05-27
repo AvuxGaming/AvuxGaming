@@ -1,12 +1,19 @@
 <h2> Hey there! I'm Avux</h2>
 
 <h3> 👨🏻‍💻 &nbsp;About Me </h3>
+My name is Avux but most people just call me Avux or vux.
 
-- 🤔 &nbsp; Exploring new technologies and developing software solutions and quick hacks.
-- 🎓 &nbsp; Msc Business Informatics-University of Mannheim, Bsc Computer Science-National University of Computer & Emerging Sciences.
-- 💼 &nbsp; SunExpress-Lufthansa, SAP, University of Mannheim, Touchstone Communications.
+I'm a Hobby Developer who develops stuff in my free time (which is a lot right now) in C# , JavaScript , CSS , and HTML. My most popular/well known project so far is [Kon#1672](https://konbot.ga), a Discord Bot that reached over 85+ Servers and [ΛVUX ΛPI](https://api.avux.ga), a Rest API for your Discord Bot.
+
+If you have any questions, feel free to join my [Discord Server](https://api.avux.ga/support). I'm pretty much always around and have time to answer stuff.
+
+## 📁 Information
+
+- 🤔 &nbsp; Exploring new technologies , design website and developing Software , Rest API and Discord Bot.
+- 🎓 &nbsp; Senior High School Antartika Sidoarjo , Jawa Timur , Indonesia.
+- 💼 &nbsp; Not Yet.
 - 💭 &nbsp; Diving deeper into the realm of web development, IT automation scripts and data science.
-- 🍭 &nbsp; Gardening, working out and fragrances as hobbies.
+- 🍭 &nbsp; Gaming, Coding and Travelling as hobbies.
 
 <h3> 🛠 &nbsp;Tech Stack</h3>
 
@@ -19,7 +26,7 @@
 
 <br/>
 
-<a href="https://github.com/syedammar111">
+<a href="https://github.com/AvuxGaming">
   <img height="200em" src="https://github-readme-stats.vercel.app/api?username=avuxgaming&theme=buefy&show_icons=true" />
   <img height="200em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=avuxgaming&theme=buefy&layout=compact" />
 </a>
