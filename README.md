@@ -3,7 +3,7 @@
 <h3> 👨🏻‍💻 &nbsp;About Me </h3>
 My name is Avux but most people just call me Avux or vux.
 
-I'm a Hobby Developer who develops stuff in my free time (which is a lot right now) in C# , JavaScript , CSS , and HTML. My most popular/well known project so far is [Kon#1672](https://konbot.ga), a Discord Bot that reached over 85+ Servers and [ΛVUX ΛPI](https://api.avux.ga), a Rest API for your Discord Bot.
+I'm a Hobby Developer who develops stuff in my free time (which is a lot right now) in C# , JavaScript , CSS , and HTML. My most popular/well known project so far is [Rika#1672](https://rika.ga), a Discord Bot that reached over 85+ Servers and [ΛVUX ΛPI](https://api.avux.ga), a Rest API for your Discord Bot.
 
 If you have any questions, feel free to join my [Discord Server](https://api.avux.ga/support). I'm pretty much always around and have time to answer stuff.
 
