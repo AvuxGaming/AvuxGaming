@@ -1,6 +1,6 @@
 <h2> Hey there! I'm Avux</h2>
 <div align="left"><img alt="Avux"src="https://discord.c99.nl/widget/theme-2/889180287362273310.png"></div>
-<div align="left"><img alt="Avux"src="https://komarev.com/ghpvc/?username=avuxgaming&style=flat-square&label=PROFILE+VIEWS&color=grey"> <a href="https://avux.ga/"><img alt="Website" src="https://img.shields.io/badge/Website-www.avux.ga-blue?style=flat-square&logo=google-chrome"></a> <a href="https://avux.ga/"><img alt="Youtube" src="https://img.shields.io/badge/Youtube-Avux-red?style=flat-square&logo=youtube"></a></div>
+<div align="left"><img alt="Avux"src="https://komarev.com/ghpvc/?username=avuxgaming&style=flat-square&label=PROFILE+VIEWS&color=lightgrey"> <a href="https://avux.ga/"><img alt="Website" src="https://img.shields.io/badge/Website-www.avux.ga-blue?style=flat-square&logo=google-chrome"></a> <a href="https://avux.ga/"><img alt="Youtube" src="https://img.shields.io/badge/Youtube-Avux-red?style=flat-square&logo=youtube"></a></div>
 
 <h3> 👨🏻‍💻 &nbsp;About Me </h3>
 My name is Avux , Im from Sidoarjo, Jawa Timur, Indonesia
@@ -40,4 +40,5 @@ If you have any questions, feel free to join my [Discord Server](https://api.avu
 <p align="center">
 <a href="https://www.instagram.com/d.avux/"><img alt="Instagram" src="https://img.shields.io/badge/Instagram-d.avux-blue?style=flat-square&logo=instagram"></a>
 <a href="mailto:avuxgaming@gmail.com"><img alt="Email" src="https://img.shields.io/badge/Email-avuxgaming@gmail.com-blue?style=flat-square&logo=gmail"></a>
+<a href="https://saweria.co/avux/"><img alt="Donate" src="https://img.shields.io/badge/Donate-Saweria.co-blue?style=flat-square&logo=donate"></a>
 </p>
