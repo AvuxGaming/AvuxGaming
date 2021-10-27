@@ -27,12 +27,20 @@ If you have any questions, feel free to join my [Discord Server](https://api.avu
 
 
 <br/>
-
-<a href="https://github.com/AvuxGaming">
+<div align="center">
+ <img src="https://github-profile-trophy.vercel.app/?username=avuxgaming&theme=dracula&count_private=true"></div>
+ <a href="https://github.com/AvuxGaming">
   <img height="200em" src="https://github-readme-stats.vercel.app/api?username=avuxgaming&theme=buefy&show_icons=true" />
   <img height="200em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=avuxgaming&theme=buefy&layout=compact" />
-</a>
-
+ </a>
+<table width="100%" align="center">
+  <tr>
+    <td>
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=Whirl21&show_icons=true&hide_border=true&theme=tokyonight" /> </td>
+ <td> <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Whirl21&show_icons=true&hide_border=true&layout=compact&langs_count=8&theme=tokyonight"/> </td>
+  </tr>
+ <table>
+  </div>
 <br/>
 
 <h3> 🤝🏻 &nbsp;Connect with Me </h3>
