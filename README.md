@@ -1,6 +1,6 @@
 <h2> Hey there! I'm Avux</h2>
 <div align="left"><img alt="Avux"src="https://discord.c99.nl/widget/theme-2/889180287362273310.png"></div>
-<div align="left"><img alt="Avux"src="https://komarev.com/ghpvc/?username=avuxgaming&style=flat-square&label=PROFILE+VIEWS"></div>
+<div align="left"><img alt="Avux"src="https://komarev.com/ghpvc/?username=avuxgaming&style=flat-square&label=PROFILE+VIEWS"> | <a href="https://avux.ga/"><img alt="Website" src="https://img.shields.io/badge/Website-www.avux.ga-blue?style=flat-square&logo=google-chrome"></a></div>
 
 <h3> 👨🏻‍💻 &nbsp;About Me </h3>
 My name is Avux , Im from Sidoarjo, Jawa Timur, Indonesia
