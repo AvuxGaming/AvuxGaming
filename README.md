@@ -44,5 +44,5 @@ If you have any questions, feel free to join my [Discord Server](https://api.avu
 <p align="center">
 <a href="https://www.instagram.com/d.avux/"><img alt="Instagram" src="https://img.shields.io/badge/Instagram-d.avux-blue?style=flat-square&logo=instagram"></a>
 <a href="mailto:avuxgaming@gmail.com"><img alt="Email" src="https://img.shields.io/badge/Email-avuxgaming@gmail.com-blue?style=flat-square&logo=gmail"></a>
-<a href="https://saweria.co/avux/"><img alt="Donate" src="https://img.shields.io/badge/Donate-Saweria.co-blue?style=flat-square&logo=donate"></a>
+<a href="https://saweria.co/avux/"><img alt="Donate" src="https://img.shields.io/badge/Donate-Saweria.co-blue?style=flat-square&logo=paypal"></a>
 </p>
