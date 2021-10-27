@@ -1,5 +1,6 @@
 <h2> Hey there! I'm Avux</h2>
 <div align="left"><img alt="Avux"src="https://discord.c99.nl/widget/theme-2/889180287362273310.png"></div>
+![](https://komarev.com/ghpvc/?username=avuxgaming&style=flat-square&label=PROFILE+VIEWS)
 
 <h3> 👨🏻‍💻 &nbsp;About Me </h3>
 My name is Avux , Im from Sidoarjo, Jawa Timur, Indonesia
